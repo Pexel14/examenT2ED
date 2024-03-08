@@ -7,6 +7,7 @@ public class ExamenGit {
 		System.out.println("Hola a tod@s");
 		System.out.println("Cambios master");
 		System.out.println("Cambio rama1");
+		System.out.println("Cambio master2");
 		//Cambio desde GitHub
 	}
 }
